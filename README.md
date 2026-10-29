@@ -1,9 +1,11 @@
+
 <!-- ============================================================
-     HEADER: clean waving banner (capsule-render)
-     Note: "waving" is the most reliable type; "venom" renders a blob.
+     HEADER: custom SVG banner
+     Custom SVG (assets/banner.svg): dark navy + cyan circuits,
+     matching the profile picture exactly.
      ============================================================ -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Alexis%20Uriel%20Castillo&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Junior%20Java%20Full%20Stack%20Developer&descAlignY=58&descSize=22" alt="Alexis Uriel Castillo - Junior Java Full Stack Developer" />
+  <img width="100%" src="./assets/banner.svg" alt="Alexis Uriel Castillo - Junior Java Full Stack Developer" />
 </div>
 
 <!-- Typing animation: lines are typed and erased in a loop -->
@@ -231,8 +233,7 @@ public/
   <a href="https://github.com/AlexisUriel394255"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
 </p>
 
-<!-- Footer wave -->
+<!-- Footer wave (assets/footer.svg) -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="Footer" />
+  <img width="100%" src="./assets/footer.svg" alt="Footer" />
 </div>
- 
